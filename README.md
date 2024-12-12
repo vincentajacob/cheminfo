@@ -1,1 +1,2 @@
 # cheminfo
+Repository for cheminformatics
